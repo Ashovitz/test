@@ -180,7 +180,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 [product-screenshot]: images/screenshot.svg
-[Python.js]:  https://img.shields.io/badge/python.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Python.js]:  https://img.shields.io/badge/Python3?style=for-the-badge&logo=python
 [Python-url]: https://www.python.org
 [Pytorch.js]: https://img.shields.io/badge/pytorch.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Pytorch-url]: https://pytorch.org
