@@ -90,8 +90,8 @@ With Falomen's cutting-edge AI technology, embark on a journey of self-discovery
 * [![Python][Python.js]][Python-url]
 * [![Pytorch][Pytorch.js]][Pytorch-url]
 * [![Tensorflow][Tensorflow.js]][Tensorflow-url]
-* [![OpenCV][OpenCV.js]][Tensorflow-url]
-* [![OpenAI][OpenAI.js]][Tensorflow-url]
+* [![OpenCV][OpenCV.js]][OpenCV-url]
+* [![OpenAI][OpenAI.js]][OpenAI-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,16 +180,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+<!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: images/screenshot.svg
-[Python.js]  https://img.shields.io/badge/python3-000000?style=for-the-badge&logo=python
+[Python.js]:  https://img.shields.io/badge/python3-000000?style=for-the-badge&logo=python
 [Python-url]: https://www.python.org
 [Pytorch.js]: https://img.shields.io/badge/pyTorch-000000?style=for-the-badge&logo=PyTorch
 [Pytorch-url]: https://pytorch.org
 [Tensorflow.js]: https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow
-[OpenCV.js]: https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv
-[OpenAI.js]: https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=OpenAI
-
-
 [Tensorflow-url]: https://www.tensorflow.org
-# ai
+[OpenCV.js]: https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv
+[OpenCV-url]: https://opencv.org
+[OpenAI.js]: https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=OpenAI
+[OpenAI-url]: https://openai.com
+
