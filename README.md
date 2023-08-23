@@ -180,10 +180,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 [product-screenshot]: images/screenshot.svg
-[Python.js]: https://www.python.org/static/img/python-logo.png
+[Python.js]:  https://img.shields.io/badge/python.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Python-url]: https://www.python.org
-[Pytorch.js]: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/488px-PyTorch_logo_black.svg.png
+[Pytorch.js]: https://img.shields.io/badge/pytorch.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Pytorch-url]: https://pytorch.org
-[Tensorflow.js]: https://www.gstatic.com/devrel-devsite/prod/v670576875a5cc9e38d1ef4dc0b1c46d2dc586275242dba27f9cea38af0674100/tensorflow/images/lockup.svg
+[Tensorflow.js]:  https://img.shields.io/badge/tensorflow.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Tensorflow-url]: https://www.tensorflow.org
 # ai
